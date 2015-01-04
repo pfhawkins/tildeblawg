@@ -1,0 +1,149 @@
+@font-face {
+  font-family: 'Novecento';
+  src: url('../fonts/Novecentowide-DemiBold-webfont.ttf') format('truetype'); font-weight: normal; font-style: normal;
+}
+@font-face {
+  font-family: 'TheanoOldStyle-Regular';
+  src: url('../fonts/TheanoOldStyle-Regular/TheanoOldStyle-Regular.eot?#iefix') format('embedded-opentype'), 
+       url('../fonts/TheanoOldStyle-Regular/TheanoOldStyle-Regular.woff') format('woff'), 
+       url('../fonts/TheanoOldStyle-Regular/TheanoOldStyle-Regular.ttf')  format('truetype'),
+       url('../fonts/TheanoOldStyle-Regular/TheanoOldStyle-Regular.svg#svgFontName') format('svg');
+}                                                                                                                                                     
+@font-face {
+  font-family: 'LMR';
+  src: url('../fonts/lmroman10-italic.eot') format('embedded-opentype'),
+       url('../fonts/lmroman10-italic.woff') format('woff'),
+       url('../fonts/lmroman10-italic.ttf') format('truetype'),
+       url('../fonts/lmroman10-italic.svg') format('svg');
+}
+@font-face {
+  font-family: 'Market Deco';
+  src: url('../fonts/Market_Deco.eot') format('embedded-opentype'),
+       url('../fonts/Market_Deco.woff') format('woff'),
+       url('../fonts/Market_Deco.ttf') format('truetype'),
+       url('../fonts/Market_Deco.svg') format('svg');
+}
+h2, h3 { 
+  font-family: 'Helvetica', 'Novecento', Futura, Arial, sans-serif;
+  color: #ff5500;
+  text-align: left;
+  text-rendering: optimizeLegibility;
+  line-height: 1.1;
+}
+h1 { 
+  font-family: 'LMR', 'Helvetica', 'Novecento', Futura, Arial, sans-serif;
+  color: #000000;
+  text-align: left;
+  text-rendering: optimizeLegibility;
+  line-height: 1.1;
+}
+h1 { font-size: 64px; text-align: left;}
+h2 { font-size: 36px; line-height: 1; margin-top: 1em; margin-bottom: 1em; }
+h3 { font-size: 28px; }
+h1.footerbar {
+  font-family: 'LMR';
+  font-size: 64px;
+  text-align: center;
+  display: block;
+  margin-bottom: 0.4em;
+  margin-right: 0px;
+  color: #212121;
+}
+h1.header {
+  font-family: 'LMR';
+  font-size: 4em;
+  text-align: center;
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.4em;
+  margin-right: 0px;
+  color: #212121;
+}
+h2.listy {
+  text-align: left;
+  margin-bottom: 0px;
+  &:hover { background-color: #ffff66; }
+}
+li {
+  font-size: 20px;
+  font-family: 'TheanoOldStyle-Regular', Georgia, serif;
+  line-height: 36px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+p { 
+  font-size: 24px;
+  font-family: 'TheanoOldStyle-Regular', Georgia, serif;
+  line-height: 1.5;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-rendering: optimizeLegibility;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -o-hyphens: auto;
+  color: #222222;
+}
+p + p {
+    text-indent: 1.5em;
+}
+div + div {
+    text-indent: 1.5em;
+}
+img {
+  padding: 2em;
+  padding-left: 0;
+}
+blockquote + p {
+  text-indent: 1.5em;
+}
+p.description {
+  margin-bottom: 1em;
+  font-size: 20px;
+  font-style: italic;
+  color: #003366;
+}
+p.description + p {
+  text-indent: 0em; 
+}
+div.footnotes {
+  p { font-size: 20px; }
+  a { font-size: 20px; }
+}
+a {
+  font-size: 24px;
+  font-family: 'TheanoOldStyle-Regular', Futura;
+  color: #212121;
+  text-decoration: none;
+}
+a:link {
+  background-color: #ffff66;
+}
+a:hover {
+  background-color: #ff66ff;
+}
+a:visited {
+  background-color: #57a5d4;
+}
+blockquote {
+  border-left: 6px solid #ff99ff;
+  padding-left: 15px;
+  margin: 1.5em;
+}
+sup, sub {
+  height: 0;
+  vertical-align: baseline;
+  position: relative;
+  font-size: 0.6em;             
+}
+
+sup {
+  top: -0.8em;
+}
+sup { a {
+  font-size: 16px;
+}}
+sub {
+  top: .5ex;
+}

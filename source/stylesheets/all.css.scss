@@ -1,0 +1,28 @@
+@import "compass";
+@import "susyone";
+@import "fonts";
+@charset "utf-8";
+
+$total-columns  : 12;             // a 12-column grid
+$column-width   : 3em;            // each column is 4em wide
+$gutter-width   : 1em;            // 1em gutters between columns
+$grid-padding   : $gutter-width;  // grid-padding equal to gutters
+
+body {
+  @include container;
+  header, footer { clear: both; }
+  nav { @include span-columns(6,12); }
+  .content {
+    @include span-columns(6,12);
+  }
+  background: #c0c0c0;
+}
+
+
+footer {
+  text-align: center;
+  border-top: solid;
+  border-width: thin;
+  border-color: #999999;
+  margin-top: 1em;
+}

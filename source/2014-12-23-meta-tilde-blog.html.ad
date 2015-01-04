@@ -1,0 +1,25 @@
+---
+title: Meta, Tilde, Blog
+date: 2014-12-23 12:41 UTC
+tags: meta
+---
+
+When I first joined tilde.club, there was plenty of discussion on what people were going to *do* with their tildes. I figured I would use it as an excuse to blog some. But I couldn't just use any fancy off-the-shelf blogging solution, oh no; I needed to _write my own blog software_.
+
+After a couple months of not blogging, here I am using an http://middlemanapp.com[off-the-shelf solution].
+
+=== If you weren't blogging, then what were you doing with your tilde?
+
+I started off just compiling a http://tilde.club/~pfhawkins/tipsntricks.html[list of cool things] that people were doing with their tildes, as well as instructions on how to do cool things to ones tilde. Just editing fugly HTML4 in vim, like one does.
+
+Next, I took a detour into horrific kludgy scripting and made a http://tilde.club/~pfhawkins/diskusage.html[disk usage leaderboard].
+
+Finally, I noticed on twitter that folks weren't waiting for http://tilde.club/~ford[$$~ford$$] to do something about the waitlist, and were just starting up their own tilde servers. So I http://tilde.club/~pfhawkins/othertildes.html[started listing them].
+
+I like to make lists.
+
+Since I was the first to start listing other tildes, one thing led to another, and it soon became the canonical list of tilde servers. I never meant to start a canonical list, just a list. It snowballed into http://tilde.club/~globz[$$~globz$$] and I getting all the tilde operators in touch with each other and ready for ~ford to tell his waitlist that sorry, there's no more room at the inn, but there's some more inns down the way.
+
+=== So now you're blogging?
+
+Yeah. Blogging. This will probably end up being a place for me to dump news about happenings across the "tildeverse". It'll be a bit meta that way. I've never been one to just spill on all my personal stuff that's going on. I like my blogs to be about ideas, or things. Even people sometimes. But rarely, if ever, me.

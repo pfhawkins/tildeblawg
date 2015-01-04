@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'TheanoOldStyle-Regular';
+  src: url('TheanoOldStyle-Regular.eot?#iefix') format('embedded-opentype'), 
+       url('TheanoOldStyle-Regular.woff') format('woff'), 
+       url('TheanoOldStyle-Regular.ttf')  format('truetype'),
+       url('TheanoOldStyle-Regular.svg#svgFontName') format('svg');
+}

@@ -1,0 +1,17 @@
+---
+title: asciidoc
+date: 2014-12-24 19:54 UTC
+tags: metameta, asciidoc, markdown
+---
+
+A programming note for this nascent blog: I'm writing this in http://www.methods.co.nz/asciidoc/[asciidoc] instead of markdown.
+
+The vast, vast majority of plaintext-to-html blogging solutions take markdown as their plain text format of choice. I use markdown regularly, and enjoy the heck out of it.
+
+But.
+
+The first pain point I came across with markdown was footnotes. Oh man. Footnotes. Something so ubiquitous seems like it would come with a standard way to handle footnotes. Alas and alack, it does not. Some standards have evolved in this area, but which one you adhere to ties you down into a different “flavor” of markdown. I use one of them on http://hypervers.es[Hyperverses], and it works fine.
+
+I saw asciidoc mentioned somewhere as a replacement for markdown. The context was in a larger book-publishing toolchain. And boy howdy, asciidoc has *all* the little typographical niceties. Not just footnotes: ALL OF THEM. I mean, seriously, it's got ^superscript^ and ~subscript~. It automatically detects and properly links irc URLs. The http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#source-code[source code formatting] is off the chain.
+
+I figure http://tilde.club[tilde.club] is as good a space as any to develop some asciidoc muscles.
