@@ -1,0 +1,19 @@
+---
+title: Two New Tildes
+date: 2015-01-04 20:13 UTC
+tags: tilde, news, other tildes
+---
+
+There isn't much visibility to new additions on the http://tilde.club/\~pfhawkins/othertildes.html[other tildes page], so I thought I'd use the blog to highlight new tildes as I added them.
+
+=== ~club6.nl
+
+http://tilde.club/\~imt/[~imt] recently started https://club6.nlp[~club6.nl]. club6's focus is on IPv6. Pages are accessible over both IPv4 and IPv6, but everything else (ssh, etc.) is only available over IPv6. Another feature that club6 has that I've not seen on other tildes is a per-user achievements board. https://club6.nl/!imt/[Here is ~imt's]. Although he's the founder of club6, he's still got a ways to go.
+
+Also of note: https://club6.nl/hall-of-shame.html[IPv6 Hall Of Shame]
+
+=== LosAngeles UNIX Experimentation Server
+
+While http://losangeles.pablo.xyz/[the LosAngeles UNIX Experimentation Server] has IPv6 as well as IPv4, it's more of a general tilde server, not so relentlessly focused on IPv6. I love love love the name of the club. It's perhaps a bit of a mouthful, but utterly straightforward and forthright.
+
+It's the first tilde server I'm aware of that allows users to serve pages using PHP.
